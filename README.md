@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Fard
 - 👀 I’m interested in Architecture, digital fabrication and computation
-- 🌱 I’m currently learning html and java
+- 🌱 I’m learning web developmet 
 - 💞️ I’m looking to collaborate on coding right now mainly about Web Development, Javascript, and Digital Fabrication
 - 📫 How to reach me by email fard.cca@gmail.com
 
